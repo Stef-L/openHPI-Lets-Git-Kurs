@@ -9,3 +9,6 @@ Es beginnt eine kurzweilige Erzählung über skurrile Erlebnisse und wie Allan e
 * schnellentschlossen
 * unkonventionell
 * weise
+
+> "Kann ich Ihnen irgendwie helfen? Sie sehen so bedrückt aus, Herr Präsident.
+> Vielleicht brauchen Sie ja Hilfe?"
