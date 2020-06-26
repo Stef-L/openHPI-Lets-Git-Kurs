@@ -12,3 +12,5 @@ Es beginnt eine kurzweilige Erzählung über skurrile Erlebnisse und wie Allan e
 
 > "Kann ich Ihnen irgendwie helfen? Sie sehen so bedrückt aus, Herr Präsident.
 > Vielleicht brauchen Sie ja Hilfe?"
+
+<img src="https://ssl.ofdb.de/images/film/257/257893.jpg" />
